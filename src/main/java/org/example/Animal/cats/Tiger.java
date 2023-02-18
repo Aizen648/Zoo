@@ -36,4 +36,5 @@ public class Tiger extends Cat implements Climbing, Smellblood {
     public void giveVoice() {
         System.out.println("Grrrr");
     }
+
 }
