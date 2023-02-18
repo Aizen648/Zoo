@@ -11,7 +11,6 @@ import java.util.List;
 @Data
 public class Zoo {
     private List<Cage> cages = new ArrayList<>();
-
     public void addCage(Cage cage){
         cages.add(cage);
     }
