@@ -20,5 +20,4 @@ public class CatCage extends Cage {
     public int getSize() {
         return getWitdh()*getHeight()*getLength();
     }
-
 }
