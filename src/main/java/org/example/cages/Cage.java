@@ -9,5 +9,4 @@ public abstract class Cage {
     private final int witdh;
     private final int length;
     public abstract int getSize();
-
 }
