@@ -16,4 +16,5 @@ public class Lion extends Cat implements Smellblood {
     public void giveVoice() {
         System.out.println("Grrrr");
     }
+
 }
