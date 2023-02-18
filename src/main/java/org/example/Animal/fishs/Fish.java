@@ -12,4 +12,5 @@ public abstract class Fish extends Animal {
         super(name, age, male);
         this.fin=fin;
     }
+
 }
