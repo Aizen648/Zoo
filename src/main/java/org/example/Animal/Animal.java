@@ -13,5 +13,4 @@ public abstract class Animal {
         System.out.println("yami");
     }
     public abstract Size giveSize();
-
 }
