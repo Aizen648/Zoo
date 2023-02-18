@@ -16,4 +16,5 @@ public abstract class Cat extends Animal implements Voice {
     public void giveVoice() {
         System.out.println("Miau");
     }
+
 }

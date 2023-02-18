@@ -33,7 +33,5 @@ public class Main {
 
         shark.smellblood();
         tiger.smellblood();
-
-
     }
 }
