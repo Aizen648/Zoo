@@ -9,7 +9,6 @@ import org.example.cages.CatCage;
 
 public class Main {
     public static void main(String[] arg){
-
         Zoo zoo =new Zoo();
 
         CatCage catCage1=new CatCage(12,14,4,true);
