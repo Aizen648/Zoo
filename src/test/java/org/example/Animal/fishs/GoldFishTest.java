@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class GoldFishTest {
-
     @Test
     void GoldFish_TestingGettersFromLombok_Name_Equals() {
         String name = "Rybuś";

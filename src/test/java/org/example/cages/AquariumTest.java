@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AquariumTest {
-
     @Test
     void Aquarium_TestingGettersFromLombok_Witdh_Equals() {
         int witdh=12;

@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SharkTest {
-
     @Test
     void Shark_TestingGettersFromLombok_Name_Equals() {
         String name = "Rybuś";

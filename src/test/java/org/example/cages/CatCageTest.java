@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CatCageTest {
-
     @Test
     void CatCage_TestingGettersFromLombok_Width_Equals() {
         int width=12;

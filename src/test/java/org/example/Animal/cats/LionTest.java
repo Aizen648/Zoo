@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class LionTest {
-
     @Test
     void Lion_TestingGettersFromLombok_Name_Equals() {
         String name = "Kiciuś";

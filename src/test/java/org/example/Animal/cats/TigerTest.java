@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class TigerTest {
-
     @Test
     void Tiger_TestingGettersFromLombok_Name_Equals() {
         String name = "Kiciuś";
