@@ -16,4 +16,5 @@ public class Shark extends Fish implements Smellblood {
     public void smellblood() {
         System.out.println("i smell blood!!!");
     }
+
 }
